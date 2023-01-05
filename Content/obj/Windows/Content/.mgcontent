@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/axe.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/background-music.mp3</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/backgroundParkourLevel.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/Cave_assets.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/coin.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/Death Screen.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/Death_Screen_2.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/death-boss.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/death-skeleton.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/double-axe.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/endscreen.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/Fullmain.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/heal.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/Health_Bar.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/ice_assets.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/ice_background.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/level-complete.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/MiniBoss.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/orb.wav</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/SkeletonSprite.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/StartUpBackground.png</File>
+    <File>C:/Users/ghost/Documents/AP/Y2/Game Development/TJ-Inc.-main/TJ-Inc.-main/TJ.Inc 2D PlatformGame/Content/sword-slash.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
